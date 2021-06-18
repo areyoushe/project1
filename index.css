@@ -1,0 +1,39 @@
+h1{
+    margin-top: 25px;
+    font-family: bebas neue;
+    color: rgb(199, 59, 24);
+    background: rgb(0, 0, 0) ;
+    text-align: center;}
+body {
+    margin: 0 ;
+    padding: 0 ;
+    background: rgb(224, 191, 171);}
+    #trailer{
+        text-align:center;}
+    p{
+       font-family: antonio;
+       font-style: inherit;
+       font-weight: bold;
+        color: rgba(34, 18, 4, 0.767);
+        text-align: center;
+         font-size: 20px; 
+        margin-left: 20px;
+        margin-right:40px;
+        }
+
+    hr{
+        background: white;}
+        #abc{
+        text-align: center;}
+    img{
+        height: 108px;
+        width: 566px;
+        margin-left: 33.5rem;
+        margin-right: 5rem;
+        text-align: center;
+    }
+    iframe{
+        text-align: center;
+        margin-left: 33.5rem;
+    }
+    
